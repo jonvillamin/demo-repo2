@@ -7,3 +7,5 @@ Some text
 1. Open index.html on your web browser.
 
 ## Other Stuff
+
+Thank you!
